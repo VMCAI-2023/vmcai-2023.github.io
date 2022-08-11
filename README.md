@@ -1,7 +1,5 @@
 ---
 title: VMCAI 2023
-layout: template
-filename: README.md
 --- 
 
 Welcome to the website of the 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023).
