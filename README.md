@@ -1,6 +1,4 @@
----
-title: VMCAI 2023
---- 
+[Call for Papers](call-for-papers)
 
 Welcome to the website of the 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023).
 
