@@ -1,4 +1,5 @@
-[Call for Papers](call-for-papers)
+| [Call for Papers](call-for-papers) | [Call for Artifacts](call-for-artifacts) |
+|-|-|
 
 Welcome to the website of the 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023).
 
