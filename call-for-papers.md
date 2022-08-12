@@ -42,7 +42,7 @@ Submissions can address any programming paradigm, including concurrent, constrai
 
 ## Important Dates AoE (UTC-12)
 
-September 1st, 2022: Paper submission
+September 8th, 2022: Paper submission
 
 October 13th, 2022: Notification
 
