@@ -12,3 +12,34 @@ VMCAI will take place during January 15-17, 2023.
 * Michael Emmi, Program Co-Chair
 * Cezara Dragoi, Program Co-Chair
 * Jingbo Wang, Artifact Evaluation Chair
+
+## Program Committee
+
+* Ahmed Bouajjani
+* Evan Chang
+* Rayna Dimitrova
+* Deepak D'Souza
+* Constantin Enea
+* Jerome Feret
+* Jean-Christophe Filliatre
+* Bernd Finkbeiner
+* Arie Gurfinkel
+* Liana Hadarean
+* Akos Hajdu
+* Shaobo He
+* Dejan Jovanovic
+* Akash Lal
+* Antony Lin
+* Stephan Merz
+* Suha Mutluergil
+* Kedar Namjoshi
+* Jorge Navas
+* Burcu Ozkan
+* Gennaro Parlato
+* Corina Pasareaunu
+* Tatjana Petrov
+* Daniel Schwartz-Narbonne
+* Subodh Sharma
+* Mihaela Sighireanu
+* Mandayam Srivas
+* Florian Zuleger
