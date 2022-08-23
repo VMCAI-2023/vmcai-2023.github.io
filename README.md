@@ -42,4 +42,5 @@ VMCAI will take place during January 15-17, 2023.
 * Subodh Sharma
 * Mihaela Sighireanu
 * Mandayam Srivas
+* Zhen Zhang
 * Florian Zuleger
