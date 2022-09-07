@@ -21,7 +21,7 @@ The artifact evaluation will be done in parallel with the evaluation of the subm
 
 September 9, 2022: Artifact submission opens
 
-September 15, 2022: Artifact submission
+~~September 15, 2022~~ September 22, 2022: Artifact submission
 
 October 3, 2022: Artifact test phase notification
 
