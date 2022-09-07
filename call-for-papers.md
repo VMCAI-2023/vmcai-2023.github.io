@@ -44,7 +44,7 @@ Submissions can address any programming paradigm, including concurrent, constrai
 
 ~~September 8th, 2022~~ September 15, 2022: Paper submission
 
-October 13th, 2022: Notification
+~~October 13th, 2022~~ October 20, 2022: Notification
 
 November 10th, 2022: Camera-ready version due
 
