@@ -51,7 +51,7 @@ An artifact submission should consist of
 * the SHA256 checksum of the archive file
 * a .pdf file of the submitted paper contained within the archive file.
 
-The artifact evaluation chairs will download the archive file and distribute it to the reviewers. Please also look at the Artifact Packaging Guidelines section for detailed information about the contents of the submission. The abstract (as a txt or pdf) should be submitted to submitted to EasyChair. The abstract should include a description of the artifact, the URL of the download link (you should upload your vm to a hosting service of your choice - easychair will not accept vm uploads), as well as the SHA256 checksum of your archive file.
+The artifact evaluation chairs will download the archive file and distribute it to the reviewers. Please also look at the Artifact Packaging Guidelines section for detailed information about the contents of the submission. The abstract (as a txt or pdf) should be submitted to EasyChair. The abstract should include a description of the artifact, the URL of the download link (you should upload your vm to a hosting service of your choice - easychair will not accept vm uploads), as well as the SHA256 checksum of your archive file.
 
 [https://easychair.org/conferences/submissions?a=29486522](https://easychair.org/conferences/submissions?a=29486522)
 
