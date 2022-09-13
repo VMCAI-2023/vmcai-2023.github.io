@@ -73,7 +73,7 @@ We recommend preparing your artifact in such a way that any computer science exp
 
 ## VMCAI 2022 Virtual Machine
 
-An initial version of the virtual machine is available [here](https://drive.google.com/file/d/1R0gcoXtxbDUp3xNYsTGBt_nmewXo6ZiI/view?usp=sharing). The user name and password are vmcai. If you have any questions regarding the VM or in case you think the VM is improper for evaluation of your artifact, please contact the artifact evaluation chair.
+An initial version of the virtual machine is available [here](https://drive.google.com/file/d/1TW3zeLQQeMKX1lxG49q_MUGnyYKheAju/view?usp=sharing). The user name is `vmcai` and the password is `vmcai-2023`. If you have any questions regarding the VM or in case you think the VM is improper for evaluation of your artifact, please contact the artifact evaluation chair.
 
 ## Submission Contents
 
