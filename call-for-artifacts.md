@@ -23,9 +23,9 @@ September 9, 2022: Artifact submission opens
 
 ~~September 15, 2022~~ September 22, 2022: Artifact submission
 
-October 3, 2022: Artifact test phase notification
+~~October 3, 2022~~ October 16, 2022: Artifact test phase notification
 
-October 4–7, 2022: Artifact clarification period
+~~October 4–7, 2022~~ October 16–20, 2022: Artifact clarification period
 
 October 30, 2022: Artifact notification
 
