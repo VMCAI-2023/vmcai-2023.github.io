@@ -5,7 +5,7 @@ Welcome to the website of the 24th International Conference on Verification, Mod
 
 VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas. VMCAI 2023 will be the 24th edition in the series.
 
-VMCAI will take place during January 15-17, 2023.
+VMCAI will take place during January 16-17, 2023.
 
 ## Organizing Committee
 
